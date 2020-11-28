@@ -194,5 +194,5 @@ function keyPressed() {
 }
 
 function codelink() {
-    window.location.href = "https://github.com/sagarsaurabhssnl/PRO-C-30";
+    window.location.href = "https://github.com/sagarsaurabhssnl/PRO-C30";
 }
